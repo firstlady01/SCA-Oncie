@@ -1,0 +1,154 @@
+header{
+    position: fixed;
+}
+.header{
+    float: right;
+    position: relative;
+    left: 950px;
+}
+.head{
+    background-color:  #805ccc;
+}
+.head h1{
+    font-weight: 700;
+    color: white;
+    width: 70%;
+    font-size: 4.45em;
+    line-height: 1.1;
+}
+.headerImg{
+    width: 42%;
+    position: relative;
+    left: 145px;
+    top: 285px;
+}
+.title1{
+    color: #0a011f;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+.title2{
+    color: #0a011f;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+}
+.title1 span{
+    color:#bf99ff;
+}
+.mic{
+    position: relative;
+    bottom: 30%;
+    right: 17%;
+}
+.p{
+    color: #615c70;
+    line-height: 1.8;
+}
+.text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    width: 640px;
+    margin-left: 359px;
+    color: #615c70;
+}
+.text2{
+    width: 80%;
+    position: relative;
+    left: 90px;
+    color: #615c70;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+}
+.audio{
+    background-color: #f3effe
+}
+.phone1{
+    position: relative;
+    bottom: 25px;
+    right: 257px;
+}
+.phone2{
+    position: relative;
+    bottom: 137px;
+    right: 320px;
+}
+.phone3{
+    position: relative;
+    right: 458px;
+    bottom: 37px;
+}
+.phone-bottom{
+    color: #615c70;
+    background-color: #f3effe;
+}
+.work{
+    font-size: 64px;
+    font-weight: 700;
+}
+.audience{
+ background-color:  linear-gradient(#bf99ff, #7137ff);
+ height: 420px;
+background: mediumpurple;
+border-radius: 38px
+}
+.base h2{
+    width: 335px;
+    position: relative;
+    left: 650px;
+    font-weight: 700;
+    font-size: 64px;
+    color: white;
+}
+.spellbound{
+    position: relative;
+    bottom: 522px;
+    left: 65px;
+    width: 25%;
+}
+.base{    height: 615px;}
+input{
+    width: 390px;
+    height: 58px;
+    border-radius: 13px;
+    border-color: plum;
+    border-style: groove;
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: 600;
+}
+button{
+    height: 60px;
+    border-radius: 13px;
+    width: 175px;
+    color: white;
+    background: #7137ff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 2px solid #bf99ff;
+    box-shadow: 0 10px 20px rgba(112, 49, 255, .5);
+}
+.footer{
+    text-decoration: none;
+    color: #948fa3;
+    margin-right: 25px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.line{
+    border-top-style:outset ;
+}
+.follow{
+    margin-right: 20px;
+    color: #615c70;
+    font-weight: 700;
+    font-size: 18px;
+    padding-left: 120px;
+}
+.icon{margin-right: 20px;}
